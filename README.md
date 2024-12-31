@@ -22,3 +22,5 @@ Se desarrolló en base a los aprendizajes obtenidos a lo largo del Módulo 02, r
 ---------------------
 
 REFLEXIONES DEL BOOTCAMP UTEL - FUNDAMENTOS DE PYTHON C28 - MODULO 02: Siento un mayor grado de confianza al tener un mejor entendimiento de las instrucciones necesarias para construir un código digital en Python, además de como debe de ser definido, implementado y terminado un bucle para que éste cumpla la función deseada y no se ejecute infinitamente.
+
+Pienso que el Bootcamp Python me ha servido para entender la lógica y secuencia de un entorno de programación en Python, así como la organización de bloques de código para diferenciar cada proceso a ejecutar, su esencia y los resultados o modificaciones generados a partir de la operación automática del programa y el ingreso de datos por el usuario.
